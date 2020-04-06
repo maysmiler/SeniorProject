@@ -1,10 +1,9 @@
-# laundry
 
-#Please, seperate branch by feature/xx every features.
-#Do not use branch master and dev.
+# Please, seperate branch by feature/xx every features.
+# Do not use branch master and dev.
         #Master use for Production
         #dev use for testing
-#How to commit and push code in your Branch ?
+# How to commit and push code in your Branch ?
         #git init
         #git remote add origin https://github.com/maysmiler/SeniorProject.git
         #git remote -v (for checking current repository)
